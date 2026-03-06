@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "SCAR",
+  "base_artist": "Pxrge Trxxxper",
+  "createdAt": "2026-03-06T13:15:12.540136Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Coda: A Burn Scar In The Shape Of The Sooner State",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/01_Coda__A_Burn_Scar_In_The_Shape_Of_The_Sooner_State_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scar for Love",
+      "artist": "Niki & The Dove",
+      "has_synced": true,
+      "path": "select/02_Scar_for_Love_Niki_&_The_Dove.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Raspberries (Feat. Mouche And Scar)",
+      "artist": "Big Boi",
+      "has_synced": false,
+      "path": "select/03_Raspberries_(Feat._Mouche_And_Scar)_Big_Boi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scar",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/04_Scar_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scar",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/05_Scar_Def_Leppard.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If You Want It (feat. Scar)",
+      "artist": "Sleepy Brown",
+      "has_synced": true,
+      "path": "select/06_If_You_Want_It_(feat._Scar)_Sleepy_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Permanent Scar",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/07_Permanent_Scar_Future.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Permanent Scar",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/08_Permanent_Scar_Future.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scar",
+      "artist": "Simple Minds",
+      "has_synced": false,
+      "path": "select/09_Scar_Simple_Minds.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Scar",
+      "artist": "At the Gates",
+      "has_synced": true,
+      "path": "select/10_The_Scar_At_the_Gates.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scar",
+      "artist": "Gary Numan",
+      "has_synced": false,
+      "path": "select/11_Scar_Gary_Numan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Scar Tissue",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/12_Scar_Tissue_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Scar Tissue",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/13_Scar_Tissue_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Leaves Scar",
+      "artist": "Amorphis",
+      "has_synced": true,
+      "path": "select/14_Leaves_Scar_Amorphis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Scar Trek - Parasite God",
+      "artist": "Mortiis",
+      "has_synced": true,
+      "path": "select/15_Scar_Trek_-_Parasite_God_Mortiis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SCAR",
+      "artist": "Pxrge Trxxxper",
+      "has_synced": false,
+      "path": "select/pl_01_SCAR_Pxrge_Trxxxper.txt"
+    }
+  ]
+}
